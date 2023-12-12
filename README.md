@@ -1,4 +1,4 @@
-# flutter_netflix
+# flutter_API_netflix
 
 A new Flutter project.
 
