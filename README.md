@@ -1,6 +1,6 @@
-# flutter_API_netflix
+# Flutter_API_netflix
 
-A new Flutter project.
+A beautiful UI designed API based Application which is meant to look like NetFlix. The API is being carried out by the moviedb.org. 
 
 ## Getting Started
 
